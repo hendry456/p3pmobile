@@ -1,6 +1,6 @@
 module.exports = {
     HOST: "localhost",
-    USER: "xxx",
-    PASSWORD: "xxx",
-    DATABASE: "xxx"
+    USER: "root",
+    PASSWORD: "",
+    DATABASE: "p3pmobile86"
 };
